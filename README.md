@@ -40,6 +40,8 @@
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sharma-Manan&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Sharma-Manan" />
-  <\b>
-  <img align="center" src="https://github-readme-streak-stats.demolab.com/?user=Sharma-Manan&theme=radical" alt="Sharma-Manan" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://streak-stats.demolab.com?user=Sharma-Manan&theme=radical" alt="Sharma-Manan" />
 </p>
