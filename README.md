@@ -45,3 +45,5 @@
 <p align="center">
   <img align="center" src="https://streak-stats.demolab.com?user=Sharma-Manan&theme=radical" alt="Sharma-Manan" />
 </p>
+
+![](https://github-profile-trophy.vercel.app/?username=Sharma-Manan&theme=transparent&no-frame=true&no-bg=true&margin-w=4)
