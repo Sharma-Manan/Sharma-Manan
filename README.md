@@ -35,6 +35,7 @@
   <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas"/>
   <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter"/>
+  <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Streamlit"/>
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
